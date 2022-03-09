@@ -1,4 +1,10 @@
-Hello World! This is homepage of Min-Joon Song.
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+This is homepage of Min-Joon Song.
 
 a quick brown fox jumps over the lazy dog
-test
+
+</body>
+</html>
